@@ -93,9 +93,9 @@ The server parameters are as follows:
    are treated as black; any other colour is treated as white.
 
 The `PORT` and `IMAGE_ARCHIVE` parameters are both optional. If omitted,
-the server will run on port 9944. The default image collection is
-[this archive](https://raw.github.com/cathyjf/ShoddySense/master/raw/ShoddySenseImages.jar),
-which contains the images from the `images` directory of the repository.
+the server will run on port 9944. The default image collection is the
+[raw/ShoddySenseImages.jar](https://raw.github.com/cathyjf/ShoddySense/master/raw/ShoddySenseImages.jar) archive from the repository, which contains the
+images from the `images` directory of the repository.
 
 ### Running the client
 

@@ -1,10 +1,10 @@
 # Shoddy Sense
 
-Shoddy Sense is a client-server multiplayer game. Shoddy Sense is a cross
-between _Battleship_ and _Guess Who?_ and is similar to the esoteric board
-game [Sixth Sense][].
+Shoddy Sense is a cross between _Battleship_ and _Guess Who?_ and is similar
+to the esoteric board game [Sixth Sense][].
 
-Shoddy Sense was created by [Cathy Fitzpatrick][cathyjf] in March 2007.
+Shoddy Sense was created by [Cathy Fitzpatrick][cathyjf] in March 2007. It is
+a client-server multiplayer game.
 
 ## Game description
 

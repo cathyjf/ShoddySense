@@ -34,7 +34,7 @@ The main game window looks like this:
 
 <a href="https://raw.github.com/cathyjf/ShoddySense/master/screenshots/main-game-window.png">
 <img alt="Shoddy Sense - main game window"
-src="https://raw.github.com/cathyjf/ShoddySense/master/screenshots/main-game-window.png" width="460" height="348" />
+src="https://raw.github.com/cathyjf/ShoddySense/master/screenshots/main-game-window-preview.png" />
 </a>
 
 This screenshot is from the perspective of the player "Cathy". The orange

@@ -32,7 +32,10 @@ players.
 
 The main game window looks like this:
 
-![Shoddy Sense - main game window](https://raw.github.com/cathyjf/ShoddySense/master/screenshots/main-game-window.png)
+<a href="https://raw.github.com/cathyjf/ShoddySense/master/screenshots/main-game-window.png">
+<img alt="Shoddy Sense - main game window"
+src="https://raw.github.com/cathyjf/ShoddySense/master/screenshots/main-game-window.png" style="width: 460px; height: 348px;" />
+</a>
 
 This screenshot is from the perspective of the player "Cathy". The orange
 highlight in the Opponent's grid shows that Cathy is hovering over that square

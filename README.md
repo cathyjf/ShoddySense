@@ -36,9 +36,9 @@ players.
 
 The main game window looks like this:
 
-<a href="https://raw.github.com/cathyjf/ShoddySense/master/screenshots/main-game-window.png">
+<a href="https://raw.github.com/cathyjf/ShoddySense/master/raw/screenshots/main-game-window.png">
 <img alt="Shoddy Sense - main game window"
-src="https://raw.github.com/cathyjf/ShoddySense/master/screenshots/main-game-window-preview.png" />
+src="https://raw.github.com/cathyjf/ShoddySense/master/raw/screenshots/main-game-window-preview.png" />
 </a>
 
 This screenshot is from the perspective of the player "Cathy". The orange
@@ -88,13 +88,13 @@ java -jar dist/ShoddySenseServer.jar  PORT  IMAGE_ARCHIVE
 The server parameters are as follows:
 
 + `PORT` specifies the TCP port on which to run the sever.
-+ `IMAGE_ARCHIVE` specifies the URI of `zip`/`jar` archive containing a
++ `IMAGE_ARCHIVE` specifies the URI of a `zip`/`jar` archive containing a
    collection of 10x10 images to use for the game. Black pixels in the image
    are treated as black; any other colour is treated as white.
 
 The `PORT` and `IMAGE_ARCHIVE` parameters are both optional. If omitted,
 the server will run on port 9944. The default image collection is
-[this archive](http://plain.cathyjf.com/shoddysense/shoddysenseimages.jar),
+[this archive](https://raw.github.com/cathyjf/ShoddySense/master/raw/ShoddySenseImages.jar),
 which contains the images from the `images` directory of the repository.
 
 ### Running the client

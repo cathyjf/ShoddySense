@@ -30,7 +30,7 @@ public class Main {
      */
     public static void main(String[] args) {
         int port = 9944;
-        String images = "http://plain.cathyjf.com/shoddysense/shoddysenseimages.jar";
+        String images = "https://raw.github.com/cathyjf/ShoddySense/master/raw/ShoddySenseImages.jar";
         if (args.length > 0) {
             port = Integer.parseInt(args[0]);
         }

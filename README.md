@@ -13,7 +13,8 @@ version 3 or later.
 ## Credits
 
 + [Cathy Fitzpatrick][cathyjf] (cathyjf) created this program.
-+ Peter Fenner (Asimir) created the collection of 10x10 images.
++ Peter Fenner (Asimir) created the collection of 10x10 images (contained in
+  the `images` directory of the repository).
 
 [agpl3]: http://www.fsf.org/licensing/licenses/agpl-3.0.html
 [cathyjf]: https://cathyjf.com

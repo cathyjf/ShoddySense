@@ -21,12 +21,14 @@ the following two actions:
    other player's image is black or white at that square.
 
 2. A player can guess what image another player has. If the guess is correct,
-   the player whose image was corrected guessed is removed from the game. If
+   the player whose image was correctly guessed is removed from the game. If
    the guess is incorrect, the player who made the guess is removed from the
    game. On a given turn, a player can opt to guess one or more other players'
    images (though of course, if one of them is wrong, the player will not be 
-   able to make any further guesses). If a player guesses wrongly, the image
-   that was wrongly guessed is not disclosed to the other players.
+   able to make any further guesses). If a player guesses wrongly, the
+   specific image that was wrongly guessed is not disclosed to the other
+   players (i.e. the other players are only told that the guess was wrong, not
+   specifically what the guess was).
 
 The goal is to be the last player remaining, by correctly guessing other
 players' images, or by being the beneficiary of incorrect guesses by other

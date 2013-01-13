@@ -3,7 +3,7 @@
 Shoddy Sense is a cross between _Battleship_ and _Guess Who?_ and is similar
 to the esoteric board game [Sixth Sense][].
 
-Shoddy Sense was created by [Cathy Fitzpatrick][cathyjf] in March 2007. It is
+Shoddy Sense was created by [Cathy J. Fitzpatrick][cathyjf] in March 2007. It is
 a client-server multiplayer game.
 
 ## Game description
@@ -88,7 +88,7 @@ java -jar dist/ShoddySenseServer.jar  PORT  IMAGE_ARCHIVE
 The server parameters are as follows:
 
 + `PORT` specifies the TCP port on which to run the sever.
-+ `IMAGE_ARCHIVE` specifies the URI of a `jar` archive containing a
++ `IMAGE_ARCHIVE` specifies the publicly-accessible URI of a `jar` archive containing a
    collection of 10x10 images to use for the game. Black pixels in the image
    are treated as black; any other colour is treated as white.
 
@@ -120,7 +120,7 @@ version 3 or later.
 
 ## Credits
 
-+ [Cathy Fitzpatrick][cathyjf] (cathyjf) created this program.
++ [Cathy J. Fitzpatrick][cathyjf] (cathyjf) created this program.
 + Peter Fenner (Asimir) created the collection of 10x10 images (contained in
   the `images` directory of the repository).
 

@@ -88,7 +88,7 @@ java -jar dist/ShoddySenseServer.jar  PORT  IMAGE_ARCHIVE
 The server parameters are as follows:
 
 + `PORT` specifies the TCP port on which to run the sever.
-+ `IMAGE_ARCHIVE` specifies the URI of a `zip`/`jar` archive containing a
++ `IMAGE_ARCHIVE` specifies the URI of a `jar` archive containing a
    collection of 10x10 images to use for the game. Black pixels in the image
    are treated as black; any other colour is treated as white.
 
